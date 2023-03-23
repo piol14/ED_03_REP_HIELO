@@ -34,11 +34,9 @@
 					<img src="images/slide01.jpg" alt="" />
 					<div class="inner">
 						<header>
-<<<<<<< HEAD
-							<p>Vive la experiencia y siente la mirada del  <a href="https://templated.co">HIELOPURO</a></p>
-=======
-							<p>Vive la experiencia de sentir <a href="https://templated.co">HIELOPURO</a></p>
->>>>>>> 7983214404db384df42571afcdb82509278f141c
+						<p>Vive la experiencia y siente la mirada del  <a href="https://templated.co">HIELOPURO</a></p>
+
+
 							<h2>Hielo</h2>
 						</header>
 					</div>
